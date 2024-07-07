@@ -1,5 +1,3 @@
 learn
-playfootballogin
-teach
-lunch
+playfootballteach
 sleep
