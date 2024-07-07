@@ -1,3 +1,5 @@
 learn
-playfootballteach
+sleep
+playfootball
+clean
 sleep
