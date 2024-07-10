@@ -2,6 +2,3 @@ prepare
 breakfast
 study
 lunch
-clean
-lunchvisit to dicvisit
-dairy
